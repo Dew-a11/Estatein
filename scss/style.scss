@@ -1,0 +1,34 @@
+// External library
+@import "./vendors/reset";
+
+@import "./variables";
+
+@import "./components/typography";
+@import "./components/header";
+
+// Sections
+@import "./sections/ourjourney";
+@import "./sections/ourvalues";
+@import "./sections/achievements";
+@import "./sections/experience";
+@import "./sections/team";
+@import "./sections/clients";
+
+
+
+body {
+    background: $grey-08;
+    font-family: "Urbanist",sans-serif;
+}
+
+.container {
+    max-width: 1596px;
+    margin: 0 auto; 
+}
+
+@media screen and (max-width:400px) {
+    .container {
+        max-width: 358px;
+        margin: 0 auto;
+    }
+}

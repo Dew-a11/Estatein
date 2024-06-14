@@ -1,0 +1,86 @@
+// .header {
+//     .a {
+//       color: $text-white;
+//       margin-left: 5px;
+//     }
+  
+//     .row2 {
+//       padding-bottom: 20px;
+//     }
+  
+//     &__logo {
+//       margin-left: 50px;
+//     }
+  
+//     .row {
+//       padding-bottom: 10px;
+//     }
+  
+//     .row,
+//     .row2 {
+//       justify-content: space-between;
+//       display: flex;
+//       padding-top: 20px;
+//       border: 1px solid $bg-gray;
+//       background-color: $bg-darck-gray;
+//     }
+  
+//     .hr {
+//       width: 1440px;
+//       border-color: $bg-darck-gray;
+//       border-radius: 1px;
+//     }
+  
+//     &__image {
+//       background-color: $bg-gray;
+//       width: 32px;
+//       height: 32px;
+//       border-radius: 60px;
+//       margin-right: 15px;
+//       margin-top: -7px;
+//     }
+  
+//     &__title {
+//       color: $text-white;
+//       font-size: 18px;
+//       font-weight: 500;
+//     }
+  
+//     &__button {
+//       color: $text-white;
+//       font-size: 18px;
+//       font-weight: 500;
+//       margin-bottom: 5px;
+//       margin-right: 50px;
+//       background-color: $bg-black;
+//       border: 1px solid $bg-gray;
+//       padding: 14px 20px 14px 20px;
+//       border-radius: 10px;
+//     }
+  
+   
+  
+//     .nav {
+//       &__menu {
+//         display: flex;
+//       }
+  
+  
+  
+//       &__link1 {
+//         margin-right: 50px;
+//         margin-top: 5px;
+//         color: $text-white;
+//         background-color: $bg-black;
+//         padding: 15px 25px;
+//         border-radius: 10px;
+//         border: 1px solid $bg-gray;
+//       }
+  
+//       &__link {
+//         margin-right: 50px;
+//         margin-top: 20px;
+//         color: $absolute-white;
+//       }
+//     }
+//   }
